@@ -1,0 +1,109 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string-array name="vibrator_intensity_entries">
+        <item>0%</item>
+        <item>25%</item>
+        <item>50% (Default)</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
+
+    <string-array name="vibrator_intensity_entries_values" translatable="false">
+        <item>0</item>
+        <item>25</item>
+        <item>50</item>
+        <item>75</item>
+        <item>100</item>
+    </string-array>
+
+    <string-array name="hspa_entries">
+<item>Sadece UMTS</item>
+<item>Sadece HSDPA</item>
+<item>HSDPA + HSUPA</item>
+    </string-array>
+
+    <string-array name="hspa_entries_values" translatable="false">
+<item>21</item>
+        <item>22</item>
+        <item>23</item>
+    </string-array>
+
+    <string-array name="mdnie_scenario_entries">
+        <item>CyanogenMod (Varsayılan)</item>
+        <item>UI</item>
+        <item>Video</item>
+        <item>Video Warm</item>
+        <item>Video Cold</item>
+        <item>Kamera</item>
+        <item>Navigasyon</item>
+        <item>Galeri</item>
+        <item>VT</item>
+    </string-array>
+
+    <string-array name="mdnie_scenario_entries_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+    <string-array name="mdnie_mode_entries">
+        <item>Dinamik (Varsayılan)</item>
+        <item>Standart</item>
+        <item>Doğal</item>
+        <item>Film</item>
+    </string-array>
+
+    <string-array name="mdnie_mode_entries_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="mdnie_negative_entries">
+        <item>Normal</item>
+        <item>Ters</item>
+    </string-array>
+
+    <string-array name="mdnie_negative_entries_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="led_fade_entries">
+        <item>Keskin</item>
+        <item>Solma</item>
+    </string-array>
+
+    <string-array name="led_fade_entries_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="touchkey_timeout_entries">
+        <item>Asla</item>
+        <item>1 saniye</item>
+        <item>2 saniye</item>
+        <item>3 saniye (Default)</item>
+        <item>4 saniye</item>
+        <item>5 saniye</item>
+        <item>6 saniye</item>
+    </string-array>
+
+    <string-array name="touchkey_timeout_entries_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+</resources>
