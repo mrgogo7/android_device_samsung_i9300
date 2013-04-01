@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Galaxy S III Ayarları</string>
+
+    <string name="category_dock_title">Yuva</string>
+    <string name="dockaudio_subcat_title">Yuvada Ses</string>
+    <string name="use_dock_audio_title_head">Yuva USB Sesini Kullan</string>
+    <string name="use_dock_audio_summary_head">Yuva pasif sesi kullan</string>
+
+    <string name="category_haptic_title">Haptic</string>
+    <string name="vibrator_subcat_title">Titreşim</string>
+    <string name="vibrator_intensity_title_head">Titreşim Yoğunluğu</string>
+    <string name="vibrator_intensity_summary_head">Titreşim yoğunlupunu ayarla</string>
+
+    <string name="category_radio_title">Radyo</string>
+    <string name="hspa_title_head">HSPA</string>
+    <string name="hspa_summary_head">HSDPA/HSUPA Aktif</string>
+
+    <string name="category_screen_title">Ekran</string>
+    <string name="mdnie_subcat_title">Renkler</string>
+    <string name="mdnie_scenario_title_head">Senaryo</string>
+    <string name="mdnie_scenario_summary_head">mDNIe Senaryosunu Ayarla</string>
+    <string name="mdnie_mode_title_head">Mod</string>
+    <string name="mdnie_mode_summary_head">mDNIe Modunu Ayarla</string>
+    <string name="mdnie_negative_title_head">Negatif Mod</string>
+    <string name="mdnie_negative_summary_head">Ters Renkler Aktif/Pasif</string>
+
+    <string name="led_subcat_title">Bildirim Işığı</string>
+    <string name="led_fade_title_head">LED Modu</string>
+    <string name="led_fade_summary_head">LED ışığın yavaşça yada keskin solup yanması .</string>
+
+    <string name="touchkey_subcat_title">Dokunmatik Tuşlar</string>
+    <string name="touchkey_light_title_head">Arkaplan Işığı</string>
+    <string name="touchkey_light_summary_off">Arkaplan Işığını Aç</string>
+    <string name="touchkey_light_summary_on">Arkaplan Işığını Kapat</string>
+    <string name="touchkey_timeout_title_head">Zaman aşımı</string>
+    <string name="touchkey_timeout_summary_head">Arkaplan ışığının zaman aşımını ayarla</string>
+
+</resources>
